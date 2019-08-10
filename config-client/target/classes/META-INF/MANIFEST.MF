@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scloudk8s.config.client
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.wmd
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/scloudk8s.config.client
+Created-By: Maven Integration for Eclipse
+

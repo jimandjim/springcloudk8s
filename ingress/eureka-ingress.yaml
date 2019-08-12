@@ -6,7 +6,7 @@ metadata:
   name: app-ingress
 spec:
   rules:
-  - host: test.eureka.wengmd.com
+  - host: eureka.yingwukeji.cn
     http:
       paths:
       - backend:

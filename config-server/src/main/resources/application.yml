@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/wengmd07/scloudk8scfg.git
+          uri: https://github.com/jimandjim/springcloudk8s.git
           search-paths: config-repo
 server:
   port: 12000
